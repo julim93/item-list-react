@@ -1,0 +1,24 @@
+.Layout {
+  background-color: #f4f4f5;
+}
+
+.NavBar {
+  background-color: #625876;
+  color: white;
+  height: 60px;
+}
+
+.App-logo {
+  animation: App-logo-spin infinite 20s linear;
+  height: 40px;
+  margin-top: 8px;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
