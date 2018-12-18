@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import './App.css';
-import AppForm from '../components/form';
-import Layout from '../components/layout';
+import AppForm from './components/form';
+import Layout from './components/layout';
 
 class App extends Component {
   constructor(props) {
